@@ -7,6 +7,7 @@
     <string name="nameTxt">Nimi</string>
     <string name="hello">Hei</string>>
     <string name="summerTxt">Hyvästi kesä</string>>
-    <string name="name">Nimi</string>>
+    <string name="name">Nimi</string>
+    <string name="hello_name">Hei %s!</string>>
 
 </resources>
